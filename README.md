@@ -1,5 +1,4 @@
-This is a basic React project on simple game whose name is SLUDE FACE 
-in this game three random faces are generated and if all the faces are same then YOU WIN otherwise YOU LOSE
+This is a basic React project on simple game whose name is SLUDE FACE                                                                                                                      in this game three random faces are generated and if all the faces are same then YOU WIN otherwise YOU LOSE
 
 Dependencies:-
 1.To run this project you need to have REACT installed on your system.
