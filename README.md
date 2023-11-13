@@ -7,10 +7,8 @@ Dependencies:-
   to check more about library go to =>  https://react-icons.github.io/react-icons/ 
 
 About Game:-
-When you lose
-![image](https://github.com/ASPII-1/Sludge_Face/assets/127092718/d2ea3a0c-febc-489c-b5ac-24c11488796f)
+When you lose                                                                                                                                                                                ![image](https://github.com/ASPII-1/Sludge_Face/assets/127092718/d2ea3a0c-febc-489c-b5ac-24c11488796f)
 
-When you win
-![image](https://github.com/ASPII-1/Sludge_Face/assets/127092718/439711b8-5ec8-4d85-92c7-6bce72638c3f)
+When you win                                                                                                                                                                                 ![image](https://github.com/ASPII-1/Sludge_Face/assets/127092718/439711b8-5ec8-4d85-92c7-6bce72638c3f)
 
 
